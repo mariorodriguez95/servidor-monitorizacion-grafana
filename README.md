@@ -161,10 +161,10 @@ Crear una alerta, por ejemplo: avisar cuando la RAM usada supere el 30%.
 
 LECCIONES APRENDIDAS:
 
-MONITORIZACIÓN AVANZADA: Aprendí a instalar y combinar herramientas de observabilidad para tener métricas precisas del sistema.
+Monitorización Avanzada: Aprendí a instalar y combinar herramientas de observabilidad para tener métricas precisas del sistema.
 
-VISUALIZACIÓN EN TIEMPO REAL: Integré Grafana para ofrecer interfaces visuales que permiten diagnosticar problemas fácilmente.
+Visualización en tiempo real: Integré Grafana para ofrecer interfaces visuales que permiten diagnosticar problemas fácilmente.
 
-SERVICIOS AUTOMATIZADOS: Reforcé habilidades usando systemd para asegurar que todos los servicios inicien automáticamente.
+Servicios Automatizados: Reforcé habilidades usando systemd para asegurar que todos los servicios inicien automáticamente.
 
-ANÁLISIS DE RENDIMIENTO: Obtuve conocimientos prácticos para interpretar métricas clave y detectar cuellos de botella en el servidor.
+Análisis de Rendimiento: Obtuve conocimientos prácticos para interpretar métricas clave y detectar cuellos de botella en el servidor.
