@@ -1,5 +1,5 @@
 PROYECTO: SERVIDOR DE MONITORIZACIÓN CON GRAFANA, PROMETHEUS Y NODE EXPORTER
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RESUMEN:
 
 Este proyecto consiste en implementar un sistema de monitorización en tiempo real para servidores Linux utilizando herramientas de código abierto. El objetivo es obtener métricas detalladas del sistema (uso de CPU, memoria, disco, etc.) y visualizarlas en dashboards mediante Grafana.
